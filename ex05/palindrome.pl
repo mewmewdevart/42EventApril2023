@@ -4,6 +4,14 @@
 use strict;
 use warnings;
 
+print("
+        ~)        ~)
+        (_/^\      (_/^\
+         /|~|\      /|~|\
+        / / / |    / / / | /Palindrome
+-----------------------------------------
+");
+
 print("Enter a string: ");
 my $string = <STDIN>;
 
